@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+
+This is Furkan.
+- Mechatronics Engineer.
+- A self taught software developer.
+- Golang enthusiast.
+- Looking for a new career path dedicated on programming
+
+You can reach him at fukaraca@hotmail.com
+
+
 
 <!--
 **fukaraca/fukaraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
