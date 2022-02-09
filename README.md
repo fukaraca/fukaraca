@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 This is Furkan.
-- Mechatronics Engineer.
+- He is a Mechatronics Engineer.
 - A self taught software developer.
 - Golang enthusiast.
 - Looking for a new career path dedicated on programming
