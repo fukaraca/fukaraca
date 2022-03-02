@@ -4,7 +4,6 @@ This is Furkan.
 - He is a Mechatronics Engineer.
 - A self taught software developer.
 - Golang enthusiast.
-- Looking for a new career path dedicated on programming
 
 You can reach him at fukaraca@hotmail.com
 
