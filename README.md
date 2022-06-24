@@ -5,7 +5,6 @@ This is Furkan.
 - A self taught software developer.
 - Golang enthusiast.
 
-Hire him at => fukaraca@hotmail.com
 
 
 
