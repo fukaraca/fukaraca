@@ -28,9 +28,9 @@ This is Furkan.
 </p>
 
 <p>
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=fukaraca&show_icons=true&locale=en&layout=compact" alt="fukaraca" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fukaraca&show_icons=true&locale=en&layout=compact" alt="fukaraca" />
     &nbsp
-    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=fukaraca&show_icons=true&locale=en" alt="fukaraca" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fukaraca&show_icons=true&locale=en" alt="fukaraca" />
 </p>
 
 
