@@ -27,11 +27,12 @@ This is Furkan.
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-<p>
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=fukaraca&show_icons=true&locale=en&layout=compact" alt="fukaraca" />
-    &nbsp
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=fukaraca&show_icons=true&locale=en" alt="fukaraca" />
-</p>
+    ![Stats](./profile/stats.svg)
+
+    ![Top Languages](./profile/top-langs.svg)
+
+    ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 
 
 <p>
